@@ -16,7 +16,7 @@ var yargs = require('yargs'),
 
 gulp.task('lint', function() {
     var tslint = require('gulp-tslint');
-    return gulp.src(config.paths.scripts)
+    return gulp.src(config.paths.scripts.concat(['!src/toml.d.ts']))
         .pipe(tslint({
             configuration: require('./tslint')
         }))

@@ -1,0 +1,4 @@
+{
+    "enabled": true,
+    "files": ["test/fixtures/cli/src/**/*.js"]
+}

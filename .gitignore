@@ -7,3 +7,6 @@ npm-debug.log
 
 # TSD
 typings
+
+# Project
+test/fixtures/cli/tmp/*

@@ -5,5 +5,29 @@
   "path": "typings",
   "bundle": "typings/tsd.d.ts",
   "installed": {
+    "q/Q.d.ts": {
+      "commit": "a6732bf1c03fd285bb01641b3a5a0129147cdb5b"
+    },
+    "node/node.d.ts": {
+      "commit": "b27d0d0e1ce4207a7a5b1da847cb776c16d7531e"
+    },
+    "debug/debug.d.ts": {
+      "commit": "a6732bf1c03fd285bb01641b3a5a0129147cdb5b"
+    },
+    "js-yaml/js-yaml.d.ts": {
+      "commit": "a6732bf1c03fd285bb01641b3a5a0129147cdb5b"
+    },
+    "lodash/lodash.d.ts": {
+      "commit": "66f88ec51858bb21bc375fa91a963c04bc09401e"
+    },
+    "commander/commander.d.ts": {
+      "commit": "d6c98baa7fd703e449cf37f3ec39ed3bd92cfd35"
+    },
+    "glob/glob.d.ts": {
+      "commit": "b27d0d0e1ce4207a7a5b1da847cb776c16d7531e"
+    },
+    "minimatch/minimatch.d.ts": {
+      "commit": "b27d0d0e1ce4207a7a5b1da847cb776c16d7531e"
+    }
   }
 }
